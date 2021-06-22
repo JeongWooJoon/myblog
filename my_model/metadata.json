@@ -1,1 +1,1 @@
-{"tfjsVersion":"1.3.1","tmVersion":"2.4.1","packageVersion":"0.8.4-alpha","packageName":"@teachablemachine/image","timeStamp":"2021-06-22T08:37:14.666Z","userMetadata":{},"modelName":"tm-my-image-model","labels":["정우준","강호동","전효성","송중기","손예진","이승기"],"imageSize":224}
+{"tfjsVersion":"1.3.1","tmVersion":"2.4.1","packageVersion":"0.8.4-alpha","packageName":"@teachablemachine/image","timeStamp":"2021-06-22T08:37:14.666Z","userMetadata":{},"modelName":"tm-my-image-model","labels":["myFace","강호동","전효성","송중기","손예진","이승기"],"imageSize":224}
